@@ -1,4 +1,3 @@
-'use strict';
 function main() {
   // only change code below this line
   var myFirstName = "Aida";

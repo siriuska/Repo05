@@ -5,4 +5,4 @@ var myString = "FirstLine\n\tSecondLine\nThirdLine";
 return myString;
 }
 console.log(main());
-module.exportes = main;
+module.exports = main;
